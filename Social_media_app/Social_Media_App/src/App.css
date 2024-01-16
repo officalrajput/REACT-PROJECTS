@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.left-section{
+    width: 100%;
+}
+.sidebar{
+    height:90vh ;
+}
